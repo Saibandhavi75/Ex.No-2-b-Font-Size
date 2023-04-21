@@ -123,8 +123,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Ex.No-2-b-Font-Size/blob/main/122.jpeg?raw=true)
+![output](https://github.com/Saibandhavi75/Ex.No-2-b-Font-Size/blob/main/123.png?raw=true)
 
 
 ## Result:
